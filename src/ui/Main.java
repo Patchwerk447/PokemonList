@@ -2,7 +2,6 @@ package ui;
 
 import java.util.Locale;
 import java.util.Scanner;
-
 import model.Controller;
 
 // Santiago Diaz Bolaños A00415330
